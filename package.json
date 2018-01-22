@@ -1,0 +1,25 @@
+{
+  "name": "zara-th",
+  "version": "1.0.1",
+  "description": "zara",
+  "main": "zara.js",
+  "files": [
+    "zara.js"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xingzhe7878/zara.git"
+  },
+  "keywords": [
+    "zara"
+  ],
+  "author": "tonghao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xingzhe7878/zara/issues"
+  },
+  "homepage": "https://github.com/xingzhe7878/zara#readme"
+}
